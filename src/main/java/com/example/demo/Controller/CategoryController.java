@@ -28,6 +28,7 @@ public class CategoryController {
 	@Autowired
 	private CategoryService categoryService;
 	
+	
 	@GetMapping
 	public Page<Category> getAllCategories(@RequestParam(defaultValue = "0") int page, @RequestParam(defaultValue = "10") int size) {
 		return categoryService.getAllCategories(page, size);
