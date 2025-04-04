@@ -90,13 +90,3 @@ Want to contribute? Follow these steps:
    ```
 5️⃣ Open a **Pull Request**  
 
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
-## 📧 Contact
-For any queries, feel free to reach out via **GitHub Issues** or email at:  
-📩 `your-email@example.com`
